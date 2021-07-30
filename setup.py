@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup (
     name='twcmanager_client',
-    version='0.3.0',
+    version='0.4.0',
     author='Jeremy Herbison',
     author_email='jeremy.herbison@gmail.com',
     description='A simple client for communicating with TWCManager',
